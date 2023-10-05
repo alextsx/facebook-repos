@@ -1,0 +1,22 @@
+.link {
+    user-select: none;
+    text-decoration: none;
+    display: flex;
+    gap: 20px;
+    color: inherit;
+    align-items: center;
+}
+
+.active {
+    font-weight: 600;
+    color: #73D597;
+}
+
+
+.container {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-bottom: 1rem;
+}

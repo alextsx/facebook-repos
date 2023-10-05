@@ -1,0 +1,40 @@
+.repositoryCard:hover {
+    border: 3px solid #73D597;
+    box-sizing: border-box;
+}
+
+.repositoryCard {
+    border: 3px solid transparent;
+    min-width: 300px;
+    height: 300px;
+    flex-basis: 30%;
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #261275;
+    border-radius: 24px;
+    cursor: pointer;
+}
+
+
+.h2 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 34px;
+}
+
+.h4 {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 19.5px;
+}
+
+.description {
+    height: 60%;
+    width: 90%;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 19.5px;
+}

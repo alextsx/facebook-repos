@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "client",
+			"path": "."
+		},
+		{
+			"name": ".next",
+			"path": ".next"
+		},
+		{
+			"name": "types",
+			"path": ".next/types"
+		},
+		{
+			"name": "server",
+			"path": "../server"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"bootcamp-project",
+			".next",
+			"types"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.label {
+    color: #73D597;
+    font-weight: 400;
+    font-size: 15px;
+    margin-top: 7px;
+}

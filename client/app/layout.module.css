@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    height: 110px;
+    padding: 20px 20px;
+}
+
+.main {
+    width: 100%;
+    background-color: #3D2A83;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
